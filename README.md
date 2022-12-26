@@ -8,3 +8,8 @@ This program will open a .PMED format datalog from the DSC Tuning software. It o
 3. A dialog will ask what speed to use for trimming. This will remove any entries where the vehicle speed is below the entered speed.
 4. A last dialog will appear asking if zero velocity values should be removed from histograms. Removing these may help make the data easier to read, especially if it was taken during normal street driving where zero wheel velocity is common. *This does not impact the data that is saved to .csv"*
 5. Last a dialog appears to ask if you wish to save the .csv.
+
+## How to install
+1. Download an installer from the releases tab.
+2. Open this file, and approve any security requests.
+The installer and program were complied using MATLAB>
